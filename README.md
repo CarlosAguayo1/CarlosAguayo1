@@ -1,5 +1,5 @@
 # 🚀 Bienvenida/o a mi perfil de GitHub
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="">
 <br><br>
 
 ¡Hola y bienvenid@ a mi perfil de GitHub! Soy **Full Stack Developer** con conocimientos sobre **frontend** como en **backend**. Apasionado del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo de las finanzas y el marketing al ámbito del **desarrollo web**. Siempre estudiando, siempre creando.
