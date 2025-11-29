@@ -15,9 +15,7 @@
 
 <h2>Github stats:</h2>
 
-<div>
-  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=CarlosAguayo1-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)
+[![](https://github-readme-stats.vercel.app/api?psrname=CarlosAguayo1&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/CarlosAguayo1)
 
-![Racha](https://github-readme-streak-stats.herokuapp.com/?user=CarlosAguayo1-48&theme=material-palenight)
-
+[![](https://github-readme-streak-stats.herokuapp.com/?user=CarlosAguayo1&theme=material-palenight)](https://github.com/CarlosAguayo1)
+</div>
